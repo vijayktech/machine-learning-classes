@@ -1,0 +1,123 @@
+Order_ID,Date,Customer_Age,Gender,Region,Product,Category,Quantity,Unit_Price,Sales,Rating
+ORD1001,2026-02-08,54.0,Male,Chennai,Laptop,Computers,4,54193,216772,2.0
+ORD1002,2026-03-29,48.0,Female,Chennai,Laptop,Computers,3,58447,175341,1.0
+ORD1003,2026-01-17,57.0,Female,Chennai,Smart Watch,Accessories,3,8720,26160,3.0
+ORD1004,2026-02-09,21.0,Female,Pune,Smart Watch,Accessories,3,8410,25230,1.0
+ORD1005,2026-01-15,50.0,Female,Bangalore,Smart Watch,Accessories,5,9284,46420,1.0
+ORD1006,2026-03-22,,Male,Bangalore,Smart Watch,Accessories,3,9601,28803,3.0
+ORD1007,2026-03-08,47.0,Female,Chennai,Tablet,Computers,1,20174,20174,2.0
+ORD1008,2026-01-30,21.0,Male,Pune,Smart Watch,Accessories,3,8720,26160,1.0
+ORD1009,2026-01-30,27.0,Female,Chennai,Tablet,Computers,1,21871,21871,5.0
+ORD1010,2026-03-16,22.0,Male,,Tablet,Computers,1,23057,23057,5.0
+ORD1011,2026-03-22,30.0,Male,Chennai,Tablet,Computers,5,21405,107025,4.0
+ORD1012,2026-01-18,52.0,Female,Pune,Laptop,Computers,5,48497,242485,4.0
+ORD1013,2026-02-20,37.0,female,Chennai,Tablet,Computers,4,23482,93928,1.0
+ORD1014,2026-01-11,46.0,Male,Pune,Laptop,Computers,2,57222,114444,3.0
+ORD1015,2026-02-20,41.0,Male,Chennai,Laptop,Computers,4,56778,227112,4.0
+ORD1016,2026-01-03,60.0,Male,Bangalore,Mobile,Mobiles,4,27574,110296,3.0
+ORD1017,2026-03-15,20.0,Female,Bangalore,Smart Watch,Accessories,5,8425,42125,5.0
+ORD1018,2026-03-01,,Female,Pune,Mobile,Mobiles,3,28383,85149,4.0
+ORD1019,2026-01-29,25.0,Male,Hyderabad,Tablet,Computers,3,23658,70974,1.0
+ORD1020,2026-03-07,48.0,Male,Pune,Laptop,Computers,4,54496,217984,3.0
+ORD1021,2026-02-14,37.0,Male,Bangalore,Smart Watch,Accessories,1,9424,9424,2.0
+ORD1022,2026-02-26,59.0,Male,Bangalore,Mobile,Mobiles,4,27071,108284,1.0
+ORD1023,2026-02-14,48.0,Male,Bangalore,Mobile,Mobiles,5,30745,153725,
+ORD1024,2026-03-12,51.0,Male,Chennai,Smart Watch,Accessories,2,9468,18936,2.0
+ORD1025,2026-01-12,37.0,Female,Hyderabad,Laptop,Computers,1,60314,60314,4.0
+ORD1026,2026-02-22,37.0,Female,Hyderabad,Mobile,Mobiles,5,25827,129135,4.0
+ORD1027,2026-01-28,44.0,Male,Chennai,Tablet,Computers,4,21641,86564,1.0
+ORD1028,2026-01-08,51.0,Male,Hyderabad,Headphones,Accessories,4,3429,13716,3.0
+ORD1029,2026-03-02,22.0,Male,Chennai,Laptop,Computers,2,50307,100614,4.0
+ORD1030,2026-03-25,37.0,Male,Chennai,Laptop,Computers,2,56070,112140,3.0
+ORD1031,2026-02-07,38.0,Male,Pune,Mobile,Mobiles,1,31081,31081,1.0
+ORD1032,2026-02-13,36.0,Female,Hyderabad,Laptop,Computers,2,54877,109754,3.0
+ORD1033,2026-03-27,32.0,Female,Chennai,Tablet,Computers,3,20769,62307,5.0
+ORD1034,2026-01-02,18.0,Female,Chennai, mobile ,Computers,2,23722,47444,1.0
+ORD1035,2026-03-01,46.0,Male,Bangalore,Mobile,Mobiles,3,25369,76107,2.0
+ORD1036,2026-03-07,31.0,Male,Chennai,Headphones,Accessories,4,3725,14900,5.0
+ORD1037,2026-01-13,41.0,Female,Bangalore,Smart Watch,Accessories,2,8000,16000,2.0
+ORD1038,2026-03-14,26.0,Female,Chennai,Smart Watch,Accessories,3,8605,25815,2.0
+ORD1039,2026-03-31,58.0,Male,,Headphones,Accessories,3,3295,9885,3.0
+ORD1040,2026-02-09,24.0,Female,Hyderabad,Laptop,Computers,2,61499,122998,4.0
+ORD1041,2026-01-11,40.0,Male,Bangalore,Smart Watch,Accessories,5,9849,49245,1.0
+ORD1042,2026-03-01,,Male,Chennai,Headphones,Accessories,2,3393,6786,4.0
+ORD1043,2026-03-27,28.0,Male,Hyderabad,Mobile,Mobiles,2,30935,61870,1.0
+ORD1044,2026-01-14,33.0,Female,Chennai,Smart Watch,Accessories,5,8307,41535,5.0
+ORD1045,2026-03-31,51.0,Male,Pune,Laptop,Computers,1,52496,52496,3.0
+ORD1046,2026-01-13,25.0,MALE,Bangalore,Tablet,Computers,3,19433,58299,1.0
+ORD1047,2026-01-27,39.0,Female,Chennai,Laptop,Computers,4,50008,200032,4.0
+ORD1048,2026-01-18,19.0,Female,Hyderabad,Tablet,Computers,3,23605,70815,4.0
+ORD1049,2026-02-21,57.0,Male,Bangalore,Smart Watch,Accessories,1,8187,8187,5.0
+ORD1050,2026-02-13,31.0,Female,Chennai,Mobile,Mobiles,1,29094,29094,2.0
+ORD1051,2026-02-23,41.0,Male,Chennai,Smart Watch,Accessories,5,7973,39865,5.0
+ORD1052,2026-01-13,18.0,Female,Hyderabad,Laptop,Computers,4,53932,215728,3.0
+ORD1053,2026-02-08,38.0,Female,Pune,Laptop,Computers,5,59017,295085,5.0
+ORD1054,2026-01-10,28.0,Female,Bangalore,Laptop,Computers,4,59348,237392,2.0
+ORD1055,2026-03-25,55.0,Female,Chennai,Mobile,Mobiles,3,28712,86136,2.0
+ORD1056,2026-02-03,22.0,Female,Pune,Tablet,Computers,1,21608,21608,5.0
+ORD1057,2026-01-25,28.0,Female,Chennai,Mobile,Mobiles,3,26305,78915,5.0
+ORD1058,2026-01-10,38.0,Female,Bangalore,Smart Watch,Accessories,5,8063,40315,1.0
+ORD1059,2026-03-25,24.0,Female,Pune,Laptop,Computers,5,52496,262480,3.0
+ORD1060,2026-01-26,37.0,Male,Chennai,Laptop,Computers,1,50427,50427,1.0
+ORD1061,2026-03-16,20.0,Male,Chennai,Headphones,Accessories,1,3226,3226,3.0
+ORD1062,2026-02-05,60.0,Female,Chennai,Headphones,Accessories,5,3347,16735,5.0
+ORD1063,2026-02-14,25.0,Female,Hyderabad,Headphones,Accessories,5,3116,15580,2.0
+ORD1064,2026-02-21,30.0,Male,Hyderabad,Mobile,Mobiles,4,27437,109748,2.0
+ORD1065,2026-01-09,53.0,Male,Hyderabad,Smart Watch,Accessories,3,8139,24417,3.0
+ORD1066,2026-01-09,52.0,Female,Hyderabad,Smart Watch,Accessories,4,9742,38968,5.0
+ORD1067,2026-02-26,45.0,Female,Pune,Mobile,Mobiles,5,29878,149390,4.0
+ORD1068,2026-02-18,59.0,Female,Pune,Laptop,Computers,5,55187,275935,
+ORD1069,2026-01-23,29.0,Male,Hyderabad,Headphones,Accessories,2,3617,7234,3.0
+ORD1070,2026-02-07,32.0,Male,Chennai,Tablet,Computers,1,20587,20587,2.0
+ORD1071,2026-01-17,47.0,Male,Bangalore,Headphones,Accessories,2,3398,6796,4.0
+ORD1072,2026-03-24,51.0,Male,Bangalore,Smart Watch,Accessories,4,8958,35832,3.0
+ORD1073,2026-01-19,52.0,Female,Chennai,Smart Watch,Accessories,5,9329,46645,4.0
+ORD1074,2026-01-26,19.0,Male,Chennai,Headphones,Accessories,1,3697,3697,4.0
+ORD1075,2026-03-27,44.0,Female,Hyderabad,Tablet,Computers,5,20057,100285,4.0
+ORD1076,2026-01-08,49.0,Male,Pune,Headphones,Accessories,3,3866,11598,5.0
+ORD1077,2026-02-10,,Female,Pune,Laptop,Computers,5,56236,281180,5.0
+ORD1078,2026-01-23,20.0,Male,Chennai,Smart Watch,Accessories,1,9194,9194,4.0
+ORD1079,2026-01-01,42.0,Male,Bangalore,Laptop,Computers,1,55857,55857,4.0
+ORD1080,2026-03-10,40.0,Male,Hyderabad,Tablet,Computers,4,23580,94320,3.0
+ORD1081,2026-03-12,23.0,Female,Hyderabad,Laptop,Computers,5,49980,249900,3.0
+ORD1082,2026-02-07,26.0,Female,,Headphones,Accessories,4,3730,14920,2.0
+ORD1083,2026-02-27,29.0,Female,Bangalore,Headphones,Accessories,5,3720,18600,3.0
+ORD1084,2026-01-15,21.0,Female,Chennai,Mobile,Mobiles,2,25633,51266,3.0
+ORD1085,2026-01-16,41.0,Female,Pune,Headphones,Accessories,2,3692,7384,2.0
+ORD1086,2026-02-13,46.0,Female,Hyderabad,Headphones,Accessories,4,3396,13584,4.0
+ORD1087,2026-01-25,54.0,Female,Chennai,Smart Watch,Accessories,5,8175,40875,1.0
+ORD1088,2026-02-22,41.0,Male,Hyderabad,Laptop,Computers,3,57456,172368,3.0
+ORD1089,2026-03-29,37.0,Male,Bangalore,Headphones,Accessories,5,3328,16640,1.0
+ORD1090,2026-03-24,41.0,Male,Bangalore,Mobile,Mobiles,3,29890,89670,5.0
+ORD1091,2026-03-12,53.0,Male,Hyderabad,Laptop,Computers,5,52147,260735,4.0
+ORD1092,2026-03-01,44.0,Male,Chennai,Smart Watch,Accessories,1,9324,9324,5.0
+ORD1093,2026-02-10,24.0,Female,Pune,Smart Watch,Accessories,1,8440,8440,5.0
+ORD1094,2026-03-23,57.0,Male,Hyderabad,Laptop,Computers,1,57062,57062,1.0
+ORD1095,2026-03-30,52.0,Female,Hyderabad,Laptop,Computers,1,56398,56398,2.0
+ORD1096,2026-01-06,59.0,Female,Hyderabad,Smart Watch,Accessories,2,9650,19300,4.0
+ORD1097,2026-02-10,19.0,Male,Hyderabad,Smart Watch,Accessories,4,9730,38920,1.0
+ORD1098,2026-02-15,41.0,Female,Hyderabad,Laptop,Computers,4,58236,232944,5.0
+ORD1099,2026-01-05,26.0,Male,Bangalore,Tablet,Computers,1,23238,23238,1.0
+ORD1100,2026-03-30,39.0,Male,Hyderabad,Headphones,Accessories,3,3593,10779,4.0
+ORD1101,2026-02-11,48.0,Male,Hyderabad,Laptop,Computers,1,60070,60070,2.0
+ORD1102,2026-01-17,43.0,Male,Chennai,Laptop,Computers,4,61336,245344,4.0
+ORD1103,2026-02-10,24.0,Male,Pune,Mobile,Mobiles,4,28486,113944,3.0
+ORD1104,2026-02-22,29.0,Female,Bangalore,Mobile,Mobiles,3,29342,88026,5.0
+ORD1105,2026-03-04,35.0,Female,Bangalore,Laptop,Computers,1,55110,55110,1.0
+ORD1106,2026-01-13,22.0,Male,Chennai,Laptop,Computers,5,52070,260350,3.0
+ORD1107,2026-03-29,35.0,Male,Bangalore,Headphones,Accessories,4,3613,14452,5.0
+ORD1108,2026-02-22,57.0,Male,Bangalore,Mobile,Mobiles,5,26770,133850,3.0
+ORD1109,2026-01-09,42.0,Male,Chennai,Tablet,Computers,3,20551,61653,3.0
+ORD1110,2026-02-28,44.0,Male,Hyderabad,Headphones,Accessories,3,3628,10884,4.0
+ORD1111,2026-02-17,44.0,Female,Bangalore,Mobile,Mobiles,3,27539,82617,5.0
+ORD1112,2026-03-08,23.0,Female,Pune,Tablet,Computers,5,24040,120200,3.0
+ORD1113,2026-01-23,31.0,Female,Pune,Headphones,Accessories,3,3751,11253,2.0
+ORD1114,2026-01-11,55.0,Female,Pune,Tablet,Computers,1,19740,19740,1.0
+ORD1115,2026-02-13,25.0,Female,Bangalore,Laptop,Computers,2,52810,105620,1.0
+ORD1116,2026-01-02,48.0,Female,Bangalore,Headphones,Accessories,5,3774,18870,2.0
+ORD1117,2026-03-02,23.0,Female,Bangalore,Headphones,Accessories,1,3584,3584,3.0
+ORD1118,2026-03-31,36.0,Male,Pune,Smart Watch,Accessories,1,9587,9587,4.0
+ORD1119,2026-03-25,45.0,Male,Hyderabad,Laptop,Computers,4,53519,214076,4.0
+ORD1120,2026-02-17,48.0,Male,Bangalore,Mobile,Mobiles,4,25740,102960,5.0
+ORD1004,2026-02-09,21.0,Female,Pune,Smart Watch,Accessories,3,8410,25230,1.0
+ORD1015,2026-02-20,41.0,Male,Chennai,Laptop,Computers,4,56778,227112,4.0
